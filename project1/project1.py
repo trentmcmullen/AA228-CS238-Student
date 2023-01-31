@@ -1,6 +1,7 @@
 import sys
 
 import networkx
+import numpy as np
 
 
 def write_gph(dag, idx2names, filename):
